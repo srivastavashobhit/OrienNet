@@ -51,10 +51,10 @@ Download the model from this link - https://drive.google.com/file/d/1P2T9UA58bKr
 #### Inference
 Results on few human containing images
 
-#####Different images at random angels
+##### Different images at random angels
 
 ![](readme_images/image1.png)
 
-#####Same Image at random angels
+##### Same Image at random angels
 
 ![](readme_images/image2.png)
